@@ -1,2 +1,2 @@
 # hello-world
-just a test for learning git hub
+Taking a deep dive into learning git and github. Wish me luck. 
